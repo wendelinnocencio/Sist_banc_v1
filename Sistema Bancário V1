@@ -59,7 +59,7 @@ while True:
         print("*************************")
     
     elif opcao == "q":
-        print("Transação finalizada")
+        print("Sistema Finalizado")
         break
 
     else:
